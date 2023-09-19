@@ -3,3 +3,4 @@ assets/haarcascade_frontalface_default.xml
 data/fer2013.tar
 data/fer2013_train.npz
 data/fer2013_test.npz
+assets/model_best.pth
