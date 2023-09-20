@@ -1,4 +1,4 @@
-#Emotion-Aware Dog Filter
+Emotion-Aware Dog Filter
 
 This project aims to develop a dog filter that can detect a person's emotion and superimpose a dog mask specific to that emotion. The filter will use computer vision to detect the person's face and identify their facial expressions. It will then use a machine learning model to classify the person's emotion. Once the emotion is classified, the filter will superimpose a corresponding dog mask on the person's face.
 
